@@ -31,9 +31,9 @@ Tomás Muñoz Santoro
 📞 +34 948 194 700 ext. 1043
 🌐 Software Development – CIMA Image Platform
 
-🔬 Platform Director
+- 🔬 Platform Director
 Dr. Carlos Ortiz de Solórzano
-🌐 Full Image Platform Overview
+
 
 
 
