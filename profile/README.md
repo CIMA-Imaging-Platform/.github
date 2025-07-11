@@ -7,7 +7,7 @@
 
 ## Who We Are
 
-The **Image Platform** at CIMA provides technical services for acquiring, analyzing, and quantifying biomedical and preclinical images. Our core strength is **custom software development** — especially Fiji/ImageJ macros and plugins — designed to address highly specific research problems.
+The **Image Platform** at CIMA provides technical services for acquiring, analyzing, and quantifying biomedical and preclinical images. Our core strength is **custom software development** designed to address highly specific research problems.
 
 > All tools are user-friendly, reproducible, and open-access.
 
