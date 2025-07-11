@@ -15,8 +15,8 @@ The **Image Platform** at CIMA provides technical services for acquiring, analyz
 
 ## What We Do
 
--  Custom-tailored image analysis tools for biomedical and preclinical research  
--  Fiji/ImageJ macros for Quantification and segmentation workflows across multiple imaging modalities:
+-  Custom-tailored image analysis tools for biomedical and preclinical research
+-  Quantification and segmentation workflows across multiple imaging modalities:
   -  **Whole Slide Imaging** – IHC (e.g., DAB, H&E)
   -  **Fluorescence Microscopy** – Conventional, Confocal, Multiphoton, Multiplex
   -  **Medical Imaging** – CT, MRI
