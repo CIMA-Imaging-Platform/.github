@@ -1,7 +1,7 @@
 # Imaging Platform – Software Development (CIMA)
 
 **Center for Applied Medical Research (CIMA), University of Navarra**  
-🔗 [Official Website](https://cima.cun.es/en/research/technology-platforms/image-platforms/software-development)
+[Official Website](https://cima.cun.es/en/research/technology-platforms/image-platforms/software-development)
 
 ---
 
