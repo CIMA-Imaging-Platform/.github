@@ -24,7 +24,7 @@ The **Image Platform** at CIMA provides technical services for acquiring, analyz
 ---
 
 - Contact Us 
-  Junior Data Scientist
+  Junior Computer Vision Researcher
   Tomás Muñoz Santoro
   tmsantoro@unav.es
   +34 948 194 700 ext. 1043
