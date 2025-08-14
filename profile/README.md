@@ -4,7 +4,7 @@
 
 ---
 
-## Who We Are
+### Who We Are
 
 The **Image Platform** at CIMA provides technical services for acquiring, analyzing, and quantifying biomedical and preclinical images. Our core strength is **custom software development** designed to address highly specific research problems.
 
@@ -12,7 +12,7 @@ The **Image Platform** at CIMA provides technical services for acquiring, analyz
 
 ---
 
-## What We Do
+### What We Do
 
 -  Custom-tailored image analysis tools for biomedical and preclinical research
 -  Quantification and segmentation workflows across multiple imaging modalities:
