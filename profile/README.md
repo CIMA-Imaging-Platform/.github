@@ -10,7 +10,7 @@ The **Image Platform** at CIMA provides technical services for acquiring, analyz
 
 ---
 
-### Expertise
+#### Expertise
 
 -  Custom-tailored image analysis tools for biomedical and preclinical research
 -  Quantification and segmentation workflows across multiple imaging modalities:
